@@ -1,5 +1,5 @@
 {
-  "homepage": "https://001wabi.github.io/Fitness-Tracker-MERN",
+  "homepage": "http://001wabi.github.io/Fitness-Tracker-MERN",
   "proxy": "http://localhost:3000",
   "name": "frontend",
   "version": "0.1.0",
